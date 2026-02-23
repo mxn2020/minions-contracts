@@ -1,6 +1,12 @@
 ---
 name: minions-contracts
-description: Agreements, statements of work, terms, and signed documents
+id: OC-0119
+version: 1.0.0
+description: "Agreements, statements of work, terms, and signed documents"
+category: ai
+subcategory: general
+tags: ["minion", "ai", "general"]
+comments:
 ---
 
 # minions-contracts — Agent Skills
