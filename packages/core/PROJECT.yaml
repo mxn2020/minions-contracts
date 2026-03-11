@@ -1,0 +1,8 @@
+name: "@minions-contracts/sdk"
+project_scope: child
+child_type: sdk
+parent_project: minions-contracts-workspace
+description: "Agreements, statements of work, terms, and signed documents"
+priority: high
+deploy_url: null
+tags: null

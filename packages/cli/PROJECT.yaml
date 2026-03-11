@@ -1,0 +1,8 @@
+name: "@minions-contracts/cli"
+project_scope: child
+child_type: cli
+parent_project: minions-contracts-workspace
+description: "CLI for minions-contracts — Agreements, statements of work, terms, and signed documents"
+priority: high
+deploy_url: null
+tags: null

@@ -1,0 +1,8 @@
+name: minions-contracts-docs
+project_scope: child
+child_type: docs
+parent_project: minions-contracts-workspace
+description: Standard compliance definition for minions-contracts-docs
+priority: high
+deploy_url: null
+tags: null
