@@ -1,6 +1,6 @@
 {
   "name": "@minions-contracts/cli",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "CLI for minions-contracts — Agreements, statements of work, terms, and signed documents",
   "license": "MIT",
   "repository": {
